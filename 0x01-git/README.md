@@ -1,3 +1,2 @@
 “my second commit”
-Hello World
-.
+Hello World.
